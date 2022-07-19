@@ -1,4 +1,4 @@
-# ELEC5620M Mini-Project Repository -  Pong
+# Pong - Embedded C
 
 Embedded C Project of the arcade game Pong for the DE1-SoC board
 
