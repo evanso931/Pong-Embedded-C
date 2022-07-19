@@ -1,0 +1,14 @@
+GameEngine/GameEngine.o: ../GameEngine/GameEngine.c
+GameEngine/GameEngine.o: ../GameEngine/GameEngine.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_LT24/DE1SoC_LT24.h
+GameEngine/GameEngine.o: ../GameEngine/../LCDEngine/LCDEngine.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/BasicFont/BasicFont.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_usleep/HPS_usleep.h
+GameEngine/GameEngine.o: ../GameEngine/../PrivateTimer/PrivateTimer.h
+GameEngine/GameEngine.o: ../GameEngine/../SevenSegDisplay/SevenSegDisplay.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_WM8731/DE1SoC_WM8731.h
+GameEngine/GameEngine.o: ../GameEngine/../Sound/Sound.h
+GameEngine/GameEngine.o: ../GameEngine/../Sound/../Interrupts/Interrupts.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ_IDs.h
+GameEngine/GameEngine.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_Watchdog/HPS_Watchdog.h

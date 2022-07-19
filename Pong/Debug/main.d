@@ -1,0 +1,16 @@
+main.o: ../main.c
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_Watchdog/HPS_Watchdog.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_LT24/DE1SoC_LT24.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_WM8731/DE1SoC_WM8731.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_Mandelbrot/DE1SoC_Mandelbrot.h
+main.o: ../Interrupts/Interrupts.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ_IDs.h
+main.o: ../LCDEngine/LCDEngine.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/BasicFont/BasicFont.h
+main.o: C:/Users/Administrator/Workspace/ELEC5620M-Resources/Drivers/HPS_usleep/HPS_usleep.h
+main.o: ../GameEngine/GameEngine.h
+main.o: ../GameEngine/../PrivateTimer/PrivateTimer.h
+main.o: ../GameEngine/../SevenSegDisplay/SevenSegDisplay.h
+main.o: ../GameEngine/../Sound/Sound.h
+main.o: ../Image/Pong.h
