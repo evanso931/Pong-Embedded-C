@@ -31,12 +31,12 @@ The following files are provided:
 
 Pong High-Level System Block Diagram
 
-![alt text](https://github.com/leeds-embedded-systems/ELEC5620M-Mini-Project-evanso931/blob/main/Pictures/Pong%20System%20Block%20Diagram.png?raw=true)
+![alt text](https://github.com/evanso931/Pong-Embedded-C/blob/main/Pictures/Pong%20System%20Block%20Diagram.png?raw=true)
 
 Pong File Hierarchy Block Diagram
 
-![alt text](https://github.com/leeds-embedded-systems/ELEC5620M-Mini-Project-evanso931/blob/main/Pictures/Pong%20File%20Hierarchy%20Block%20Diagram.png?raw=true)
+![alt text](https://github.com/evanso931/Pong-Embedded-C/blob/main/Pictures/Pong%20File%20Hierarchy%20Block%20Diagram.png?raw=true)
 
 Pong State Machine
 
-![alt text](https://github.com/leeds-embedded-systems/ELEC5620M-Mini-Project-evanso931/blob/main/Pictures/Pong%20State%20Machine.png?raw=true)
+![alt text](https://github.com/evanso931/Pong-Embedded-C/blob/main/Pictures/Pong%20State%20Machine.png?raw=true)
